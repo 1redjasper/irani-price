@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'DBHOST' => '127.0.0.1',
+    'DBHOST' => 'https://1redjasper.github.io/irani-price/',
     'DBNAME' => 'new_mvc',
     'DBUSERNAME' => 'root',
     'DBPASSWORD' => '',

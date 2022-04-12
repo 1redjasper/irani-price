@@ -2,7 +2,7 @@
 
 return [
     'APP_TITL' => 'mvc project',
-    'BASE_URL' => 'http://localhost:8000',
+    'BASE_URL' => 'https://1redjasper.github.io/irani-price/',
     'BASE_DIR' => dirname(__DIR__),
     'providers' => [
         \App\Providers\SessionProvider::class,
