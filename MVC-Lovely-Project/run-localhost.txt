@@ -1,0 +1,11 @@
+************************************
+
+how can we open a project on localhost with port 8000?
+
+just type this text in your terminal:
+
+
+php -S localhost:8000 -t project
+
+
+************"project" is your project folder name. ***********
